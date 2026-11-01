@@ -1,0 +1,6 @@
+{
+  "name": "RevTech - Repairability & Parts Explorer",
+  "description": "RevTech helps consumers find spare parts, discover nearby repair shops, evaluate repairability, and make AI-backed repair vs replace purchase decisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
